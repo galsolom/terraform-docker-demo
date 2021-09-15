@@ -8,6 +8,7 @@
 # Usage
 
 clone this repo
+
 cd terraform-docker-demo
 ### run commands
 
