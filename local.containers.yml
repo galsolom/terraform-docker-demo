@@ -1,0 +1,10 @@
+container:
+  - 
+      name: tenant1
+      port: 8081
+  - 
+      name: tenant2
+      port: 8082
+  - 
+      name: tenant3
+      port: 8083
